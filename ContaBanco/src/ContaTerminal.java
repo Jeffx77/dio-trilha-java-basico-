@@ -18,11 +18,11 @@ public class ContaTerminal {
         String nomeCliente = scanner.next();
 
         //SOBRENOME CLIENTE
-        System.out.println("Digite seu sobrenome");
+        System.out.println("Digite seu sobrenome :");
         String sobrenome = scanner.next();
         
         //SALDO DO CLIENTE
-        System.out.println("Digite o seu Saldo");
+        System.out.println("Digite o seu Saldo :");
         Double saldo = scanner.nextDouble();
 
         //SAIDA EM TEXTO PARA VISUALIZAÇAO DO CLIENTE JA CONTENTO AS VARIAVEIS
