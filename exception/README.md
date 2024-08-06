@@ -1,15 +1,15 @@
 Utilizaçao de exceçoes no JAVA
 
 
-try{
+    try{
 
-**O codigo inteiro estara aqui , e o try vai verificar ass exceçoes se houver ou nao**
+        **O codigo inteiro estara aqui , e o try vai verificar ass exceçoes se houver ou nao**
 
-}
+    }
 
-catch('A Exception que ocorreu' e){
+    catch('A Exception que ocorreu' e){
 
-    sys.out()
+          sys.out()
 
-    **digita no print o que ocorreu de forma legivel para quem fez o imput identificar seu erro**
-}
+        **digita no print o que ocorreu de forma legivel para quem fez o imput identificar seu erro**
+    }
