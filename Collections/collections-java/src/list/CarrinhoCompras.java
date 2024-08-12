@@ -53,10 +53,11 @@ public class CarrinhoCompras {
         carrinho.exibirItens();
 
         carrinho.removerItem("Meia");
-        carrinho.removerItem("Meia");
-        carrinho.removerItem("Meia");
+        
         System.out.println("O valor total da compra é: " + carrinho.obterValorTotal());
+        
+        
 
-    
+        
     }
 }
